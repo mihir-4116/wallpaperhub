@@ -24,4 +24,7 @@ this app also supports authentication and Firebase is used as backend for this p
   </tr>
  </table>
  
+ <h3>If you like this app then you can Download it from playstore</h3>
+ Link:https://play.google.com/store/apps/details?id=com.spartans.wallpaperstore
+ 
  
