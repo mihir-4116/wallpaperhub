@@ -1,11 +1,12 @@
 <h1>Welcome to this project</h1>
 
-A wallpaper app which is build in flutter and dart where you can see HD wallpapers and download it.
+A wallpaper app which is build in flutter and dart whih displays HD wallpaers From 8-10 different categories.
 you can also set it as your home or lock screen wallpaper.
 This app uses three apis:
 1) pixel
 2) pixabey
 3) unsplash
+
 you can get that api from their website and replace it in this project.
 this app also supports authentication and Firebase is used as backend for this project.
 
